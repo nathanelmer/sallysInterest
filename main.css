@@ -1,0 +1,50 @@
+.bio{
+    display: flexbox;
+    flex-wrap: wrap;
+    
+}
+
+.bio__name{
+    font-size: 70px;
+    color: darksalmon;
+    border: double;
+    margin: 2px;
+    padding: 2px;
+}
+
+.bio__address{
+    background-color: rgb(255, 255, 255);
+    color: darksalmon;
+    border: double;
+    border-color: rgb(22, 190, 202);
+    margin: 2px;
+    padding: 2px;
+    font-size: 35px;
+}
+
+.interest1{
+    font-size: 25px;
+    margin: 2px;
+    padding: 2px;
+    color: darksalmon;
+    border: dotted;
+    border-color: rgb(22, 190, 202);
+}
+
+.interest2{
+    font-size: 25px;
+    margin: 2px;
+    padding: 2px;
+    color: darksalmon;
+    border: dotted;
+    border-color: rgb(22, 190, 202);
+}
+
+.interest3{
+    font-size: 25px;
+    margin: 2px;
+    padding: 2px;
+    color: darksalmon;
+    border: dotted;
+    border-color: rgb(22, 190, 202);
+}
